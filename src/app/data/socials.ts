@@ -11,28 +11,23 @@ export type Social = {
 const socials: Social[] = [
   {
     title: "GitHub",
-    url: "https://github.com/omar-diop/perfect-pitch",
+    url: "https://github.com/SON-jdnajda",
     Icon: FiGithub,
   },
   {
     title: "LinkedIn",
-    url: "https://www.linkedin.com/in/omar-diop-dev/",
+    url: "https://www.linkedin.com",
     Icon: FiLinkedin,
   },
   {
     title: "Twitter",
-    url: "https://twitter.com/OmarDiopDev",
+    url: "https://twitter.com",
     Icon: FiTwitter,
   },
   {
     title: "Instagram",
-    url: "https://www.instagram.com/omar.developer/",
+    url: "https://www.instagram.com",
     Icon: FiInstagram,
-  },
-  {
-    title: "Medium",
-    url: "https://medium.com/@omardiop",
-    Icon: SiMedium,
   },
 ]
 
