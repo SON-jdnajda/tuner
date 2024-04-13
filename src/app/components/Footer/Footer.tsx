@@ -10,7 +10,7 @@ export function Footer() {
             key={title}
             href={url}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="hehe"
             className={style.link}
           >
             <Icon className={style.icon} />
@@ -18,14 +18,14 @@ export function Footer() {
         ))}
       </div>
       <div>
-        Handcrafted in 🇮🇹 by
+       Em sơn không phế 🙂🙂🙂
         <a
           className={style.author}
           target="_blank"
-          rel="noopener noreferrer"
-          href="https://omardiop.com"
+          rel="hehe"
+          href="https://github.com/SON-jdnajda"
         >
-          Omar Diop
+          Trụ cột TMA
         </a>
       </div>
     </footer>
